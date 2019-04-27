@@ -1,5 +1,6 @@
 # my_greenwave
-Updated home assistant custom component for TCP Connected hub/light bulbs
+Updated home assistant custom component for TCP Connected hub/light bulbs to match Integration requirements
+Made component unique vs. overriding broken native component
 GreenwaveLighting
 Greenwave Lighting for Home Assistant.
 
