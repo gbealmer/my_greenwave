@@ -1,0 +1,8 @@
+{
+  "domain": "my_greenwave",
+  "name": "My Greenwave",
+  "documentation": "https://github.com/home-assistant/example-custom-config/tree/master/custom_components/my_greenwave/",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": []
+}
