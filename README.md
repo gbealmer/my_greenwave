@@ -1,4 +1,7 @@
 # my_greenwave
+
+All credit for a working component goes to David Fiel https://github.com/dfiel/GreenWaveLighting
+
 Updated home assistant custom component for TCP Connected hub/light bulbs to match Integration requirements.
 
 Made component unique vs. overriding broken native component.
